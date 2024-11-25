@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx creator = "GPS Waypoints App" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+	<wpt lat="38.8571599" lon="-77.38118209999999">
+		<name>Fairfax; United States</name>
+		<ele>0.0</ele>
+		<time>2024-10-31T21:00:11Z</time>
+	</wpt>
+	<wpt lat="42.02813624" lon="-91.62100029">
+		<name>scot Ringa llc </name>
+		<ele>256.79274873010627</ele>
+		<time>2024-11-01T15:03:58Z</time>
+	</wpt>
+</gpx>
